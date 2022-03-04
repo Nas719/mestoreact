@@ -1,0 +1,16 @@
+.popup__span-error {
+    color: #FF0000;
+    font-size: 12px;
+    line-height: 15px;
+    max-width: 358px;
+    justify-self: baseline;
+    margin: -28px 0 -2px;
+    z-index: 1;
+}
+
+@media screen and (max-width: 540px) {
+    .popup__span-error {
+        max-width: 232px;
+        font-size: 10px;
+    }
+}

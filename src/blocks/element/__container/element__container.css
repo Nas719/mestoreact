@@ -1,0 +1,10 @@
+.element__container {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 21px 32px;
+    margin-top: 25px;
+    align-items: center;
+}
